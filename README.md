@@ -133,4 +133,4 @@ You are required to submit the following for review:
 ## How to reach me
 Email: dballard@gmail.com 
 Github: https://github.com/dballard0628
-Walkthrough video: 
+Walkthrough video: https://drive.google.com/file/d/1vceyddfTXALu-Rdn3TBk0OMt_rNe_aSK/view?usp=sharing
